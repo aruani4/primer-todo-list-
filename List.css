@@ -1,0 +1,10 @@
+
+.wrapper--list {
+    width: 100%;
+    justify-content: space-between;
+    border: 1px solid #0f45f6;
+}
+
+.wrapper--list li {
+    list-style: none;
+}
